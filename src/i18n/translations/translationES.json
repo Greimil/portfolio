@@ -2,7 +2,7 @@
   "menu": ["Mi trabajo", "Sobre mí", "Contacto"],
   "hero": {
     "h1": "¡Hey hola! Gracias por estar aquí, es un placer tenerte aquí",
-    "p": "Soy Grey, desarrollador web. ¿Te gustaría trabajar juntos?",
+    "p": "Soy Grey, desarrollador Full Stack. ¿Te gustaría trabajar juntos?",
     "btn": "Hablemos de tu proyecto"
   },
   "work": {
@@ -11,10 +11,10 @@
     "btn": "Ver más trabajos"
   },
   "about": {
-    "subtitle": "Desarrollador Frontend",
+    "subtitle": "Desarrollador Full Stack",
     "btn": "Descargar CV",
     "title": "Sobre mí",
-    "p": "Soy un desarrollador Frontend con tres años de experiencia autodidacta en programación. Actualmente en mi segundo año de licenciatura en Informática, me apasiona contribuir a proyectos de código abierto como Chingu. Colaborar con otros desarrolladores a través de Chingu de todo el mundo ha enriquecido mi experiencia, trabajando en diversos proyectos.",
+    "p": "Soy un Desarrollador Full Stack con tres años de experiencia autodidacta en programación, actualmente cursando el tercer año de la carrera de Informática en UTESUR. Me especializo en React, Node.js, .NET y SQL, con un enfoque en la creación de aplicaciones web responsivas. He contribuido en proyectos open source como Chingu (YumYumYes!, DevEx Tools) utilizando Scrum y Jira, y desarrollé una página web institucional para UTESUR con React y .NET, brindando además soporte técnico en configuración de redes y mantenimiento de hardware.",
     "tec": {
       "title": "Tecnologías"
     }

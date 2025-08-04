@@ -86,7 +86,7 @@ export const Menu = ({
                   fill={theme === "light" ? "black" : "white"}
                   style={{ transition: "normal" }}
                 >
-                  {/* Icono del menú (puedes cambiarlo por el de tu preferencia) */}
+                  
                   {menuOpen ? (
                     <path
                       fillRule="evenodd"
@@ -117,7 +117,7 @@ export const Menu = ({
               </button>
             </Link>
           </div>
-          {/* Enlaces para la versión de escritorio */}
+          
           <div className="hidden md:flex items-center justify-end  flex-1     ">
             <button
                aria-label="Navigate to Work Section"

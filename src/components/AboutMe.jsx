@@ -10,18 +10,17 @@ import { useEffect, useState } from "react";
 
 let tec = [
   { title: "React", link: "https://es.react.dev/" },
-  {
-    title: "JavaScript",
-    link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-  },
+  { title: "JavaScript", link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
   { title: "Tailwind", link: "https://tailwindcss.com/" },
   { title: "CSS", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
-  {
-    title: "HTML5",
-    link: "https://developer.mozilla.org/en-US/docs/Web/HTML",
-  },
+  { title: "HTML5", link: "https://developer.mozilla.org/en-US/docs/Web/HTML" },
   { title: "Git", link: "https://git-scm.com/" },
   { title: "GitHub", link: "https://github.com/" },
+  { title: "C#", link: "https://learn.microsoft.com/en-us/dotnet/csharp/" },
+  { title: ".NET", link: "https://learn.microsoft.com/en-us/dotnet/" },
+  { title: "SQL", link: "https://www.w3schools.com/sql/" },
+  { title: "Node.js", link: "https://nodejs.org/" },
+  { title: "Python", link: "https://www.python.org/" },
 ];
 
 
